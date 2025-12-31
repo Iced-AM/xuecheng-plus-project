@@ -9,6 +9,7 @@
     </parent>
     <artifactId>xuecheng-plus-content-service</artifactId>
    <dependencies>
+       <!-- 依赖content-model模块，引入DTO所在的包 -->
        <dependency>
            <groupId>com.xuecheng</groupId>
            <artifactId>xuecheng-plus-content-model</artifactId>
